@@ -1,0 +1,3 @@
+plugins/Conquests/example/data/Tisochrysis/draft.sbml
+plugins/Conquests/example/data/Tisochrysis/seeds.sbml
+META58040

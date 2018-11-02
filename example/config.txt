@@ -1,0 +1,2 @@
+Prefix plugins/Conquests/example/
+Plugin Conquests inputfile inputs.txt outputfile ./

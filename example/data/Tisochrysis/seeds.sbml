@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1">
+  <model id="model">
+    <listOfCompartments>
+      <compartment id="cell"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species id="META18929" name="metacyc:CARBON-DIOXIDE" compartment="cell"/>
+      <species id="META27394" name="metacyc:OXYGEN-MOLECULE" compartment="cell"/>
+      <species id="META22304" name="metacyc:WATER" compartment="cell"/>
+      <species id="META27488" name="metacyc:Pi" compartment="cell"/>
+      <species id="META27478" name="metacyc:SULFATE" compartment="cell"/>
+      <species id="META27470" name="metacyc:NITRATE" compartment="cell"/>
+      <species id="META27527" name="metacyc:MG+2" compartment="cell"/>
+      <species id="META3103" name="metacyc:Light" compartment="cell"/>
+      <species id="META27535" name="metacyc:PROTON" compartment="cell"/>
+
+      <species id="META24860" name="metacyc:ATP" compartment="cell"/>
+      <species id="META24858" name="metacyc:ADP" compartment="cell"/>
+      <species id="META25051" name="metacyc:NADP" compartment="cell"/>
+      <species id="META25053" name="metacyc:NADPH" compartment="cell"/>
+      <species id="META25050" name="metacyc:NAD" compartment="cell"/>
+      <species id="META25052" name="metacyc:NADH" compartment="cell"/>
+      <species id="META9775" name="metacyc:Pyruvate-dehydrogenase-lipoate" compartment="cell"/>
+      <species id="META9773" name="metacyc:Oxo-glutarate-dehydrogenase-lipoyl" compartment="cell"/>
+      <species id="META26217" name="metacyc:CO-A" compartment="cell"/>
+      <species id="META7375" name="metacyc:Ubiquinones" compartment="cell"/>
+      <species id="META7645" name="metacyc:Ubiquinols" compartment="cell"/>
+      <species id="META2403" name="metacyc:Oxidized-ferredoxins" compartment="cell"/>
+      <species id="META7213" name="metacyc:Reduced-ferredoxins" compartment="cell"/>
+      <species id="META29033" name="metacyc:GLUTATHIONE" compartment="cell"/>
+      <species id="META22056" name="metacyc:OXIDIZED-GLUTATHIONE" compartment="cell"/>
+      <species id="META2404" name="metacyc:Oxidized-flavodoxins" compartment="cell"/>
+      <species id="META7272" name="metacyc:Reduced-flavodoxins" compartment="cell"/>
+      <species id="META7264" name="metacyc:Cytochromes-C-Oxidized" compartment="cell"/>
+      <species id="META7265" name="metacyc:Cytochromes-C-Reduced" compartment="cell"/>  
+      <species id="META2865" name="metacyc:Acceptor" compartment="cell"/>
+      <species id="META2866" name="metacyc:Donor-H2" compartment="cell"/>
+      <species id="META4879" name="metacyc:Red-Thioredoxin" compartment="cell"/>
+      <species id="META2397" name="metacyc:Ox-Thioredoxin" compartment="cell"/>
+      <species id="META2269" name="metacyc:ACP" compartment="cell"/>
+      <species id="META5096" name="metacyc:THF-GLU-N" compartment="cell"/>
+      <species id="META9774" name="metacyc:PROTEIN-LIPOYLLYSINE" compartment="cell"/>
+      <species id="META24390" name="metacyc:D-RIBULOSE-15-P2" compartment="cell"/>
+      <species id="META11449" name="metacyc:GLT-tRNAs" compartment="cell"/>
+    </listOfSpecies>
+    <listOfReactions/>
+  </model>
+</sbml>
+
