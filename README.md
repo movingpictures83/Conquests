@@ -2,7 +2,7 @@
 # Language: Python
 # Input: TXT (list of files and target)
 # Output: PREFIX (repository directory name)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.0, Python 3.6
 
 PluMA plugin that applies the Conquests algorithm (Laniau et al, 2017)
 to find Phenotypically Essential Metabolites (PEMs) within a metabolic network.
