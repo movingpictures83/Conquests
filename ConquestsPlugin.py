@@ -3,8 +3,8 @@
 import argparse
 import sys
 import os.path
-#import random
-#random.seed(1234)
+import random
+random.seed(1234)
 
 from src import seed_target_sbml,topo_crossroad,stoichio_crossroad,optimal_crossroad
 
